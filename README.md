@@ -10,6 +10,7 @@
 006. Пример макроса и определение операционной системы
 007. Ввод/вывод из/в консоль (моделирование работы функции cat без аргументов)
 008. Подчет количества элементов в массиве
+009. Заполнение массива произвольной длины (ф-ция realloc) и его вывод
 
 
 # Description
@@ -24,3 +25,4 @@ This repository contains small programs that explain how a particular function o
 006. Example macros and operating system definition
 007. Input/output to/from console (simulating a cat function without arguments)
 008. Counting number of elements in an array
+009. Filling array of any length (function realloc) and it's output
