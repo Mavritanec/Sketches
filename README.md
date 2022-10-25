@@ -11,6 +11,7 @@
 007. Ввод/вывод из/в консоль (моделирование работы функции cat без аргументов)
 008. Подчет количества элементов в массиве
 009. Заполнение массива произвольной длины (ф-ция realloc) и его вывод
+010. Печать числа в двоичном виде
 
 
 # Description
@@ -26,3 +27,4 @@ This repository contains small programs that explain how a particular function o
 007. Input/output to/from console (simulating a cat function without arguments)
 008. Counting number of elements in an array
 009. Filling array of any length (function realloc) and it's output
+010. Printing a number in binary form
