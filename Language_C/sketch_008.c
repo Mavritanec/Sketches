@@ -19,7 +19,6 @@ char mass_2[][BUFF_SIZE] = {
     "sample code"
 };
 
-
 int main(void) {
     size_t mass_size = sizeof(mass_1);
     size_t elem_size = sizeof(int);

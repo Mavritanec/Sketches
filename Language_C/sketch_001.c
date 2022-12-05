@@ -2,7 +2,6 @@
 
 #define BUFF_SIZE 64
 
-
 int main() {
     char *token_string = "15 12 14...";
 

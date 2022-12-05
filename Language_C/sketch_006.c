@@ -8,7 +8,6 @@
 #define OS 'L'
 #endif
 
-
 int main() {
     printf("Operation system: %c.\n", OS);
     return 0;

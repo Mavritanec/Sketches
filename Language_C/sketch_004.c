@@ -5,7 +5,6 @@
 
 #define BUFF_SIZE 64
 
-
 int main() {
     setlocale(LC_ALL, "");
 
